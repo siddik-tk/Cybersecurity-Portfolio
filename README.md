@@ -37,6 +37,8 @@ I actively practice using:
 PortSwigger Web Security Academy
 Real-world VDP programs
 Custom test environments
+
 📬 Contact
+
 LinkedIn: https://www.linkedin.com/in/siddik-cybersecurity-8a1b96309
 GitHub: https://github.com/siddik-tk
